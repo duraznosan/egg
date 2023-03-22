@@ -1,1 +1,3 @@
 Probando primer repositorio en github con git
+funcionó excelente
+ahora a probar en segundo cambio
